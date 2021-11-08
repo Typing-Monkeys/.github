@@ -1,5 +1,7 @@
 # Typing Monkeys
 
+![logo](./imgs/logo.gif)
+
 **_Not programmers, but Typing Monkeys 🐵_**
 
 ## About
