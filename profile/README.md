@@ -1,6 +1,6 @@
 # Typing Monkeys
 
-![logo](./imgs/logo.gif)
+![logo](https://github.com/Typing-Monkeys/.github/blob/master/profile/imgs/logo.gif?raw=true)
 
 **_Not programmers, but Typing Monkeys 🐵_**
 
